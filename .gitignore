@@ -1,0 +1,26 @@
+*.o
+*.bak
+as_client
+as_server
+stream_debugger
+*.exe
+library
+saved
+*.s
+*.d
+*~
+f1
+debug_list
+debug_input_followup
+debug_input
+stream_debug
+test/f
+test/file1
+test/file2
+test/file3
+test/lol
+test/nation anthem
+test.py
+.vscode/extensions.json
+.vscode/settings.json
+stream_debugger.c
